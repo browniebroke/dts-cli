@@ -2355,10 +2355,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:^14.17.19":
-  version: 14.17.27
-  resolution: "@types/node@npm:14.17.27"
-  checksum: 4f7eeaa329f4b2b9ff4bb0bb4582ad92e328a4e66f62d5b96ac4e3b51210ed092bb56726c30643beb860f6df633a29e08ed94adad2d573c85b4794d0bf0bbc06
+"@types/node@npm:^16.11.6":
+  version: 16.11.6
+  resolution: "@types/node@npm:16.11.6"
+  checksum: 6e19634766ff589d3d2f361c2196b671f8f133cdadc5ad347a621c360d8994b6c4fbccfb2ad9c60c588c593831a96497c9c6b77d2b7e91be723384b94f6368e7
   languageName: node
   linkType: hard
 
@@ -4688,7 +4688,7 @@ __metadata:
     "@types/fs-extra": ^9.0.13
     "@types/jest": ^27.0.2
     "@types/lodash": ^4.14.175
-    "@types/node": ^14.17.19
+    "@types/node": ^16.11.6
     "@types/react": ^16.14.15
     "@types/rollup-plugin-json": ^3.0.3
     "@types/sade": ^1.7.3
